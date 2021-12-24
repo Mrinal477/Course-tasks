@@ -1,2 +1,2 @@
 # Course---tasks
-Task completed
+Tasks on Supervised and Unsupervised Machine Learning algorithms.
